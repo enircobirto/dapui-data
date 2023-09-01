@@ -84,6 +84,7 @@ local default_config = {
     edit = "e",
     repl = "r",
     toggle = "t",
+    view = "v",
   },
   element_mappings = {},
   expand_lines = vim.fn.has("nvim-0.7") == 1,
